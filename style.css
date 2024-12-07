@@ -1,0 +1,95 @@
+*,html{
+margin: 0;
+padding:0;
+}
+
+
+table{
+    background-color: rgb(47, 34, 231);
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    padding: 10px;
+  
+}
+.sungut{
+    background-color: rgb(47, 34, 231);
+
+    
+}
+.word2{
+background-color: yellow;
+width: 20%;
+height: 10%;
+
+}
+.amba{
+    display: flex;
+    height: 100px ;
+    justify-content: center;
+    align-items: center;
+    
+}
+.li-tukam {
+    display: flex;
+    height: 69px ;
+    justify-content: center;
+    
+    padding: 10px;
+ margin:3px;
+ border: solid black 1px;
+ width: 50px;
+ height: 20px;
+}
+.chara{
+background-color: aliceblue;
+border: solid black 2px;
+text-justify: auto;
+display: flex;
+padding:10px;
+margin:4px;
+}
+
+
+.inputan{
+display: flex;
+border: solid color rgb(18, 18, 233) 2px;
+justify-content: center;
+align-items:center;
+padding: 40px;
+margin: 10px;
+}
+.angka{
+border: solid brown 2px;
+
+padding: 10px;
+margin: 5px;
+
+}
+.pengaturan{
+display: flex;
+justify-content: center;
+ align-items: center;
+ padding: 10px;
+ margin: 4px;
+
+ background-color: whitesmoke;
+ 
+}
+.judiayam{
+display: flex;
+justify-content: center;
+align-items: center;
+border: solid color(srgb rgb(255, 89, 0) );
+padding: 10px;
+ margin: 50px;
+ background-image: " 2024-04-19 181851.png" width="500" height="50";
+}
+.gambar {
+display: flex;
+justify-content: center;
+align-items:center;
+padding: 10px;
+ margin: 50px;
+
+}
